@@ -3,6 +3,7 @@ package saveer;
 public class Class {
 int x=5;
 int y=7;
+
 public static void main(String[]args)
 {
 	Class o1=new Class();
